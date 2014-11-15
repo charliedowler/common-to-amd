@@ -1,0 +1,15 @@
+{
+  "name": "common-to-amd",
+  "version": "0.1.0",
+  "description": "convert common js format to amd",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "commonjs",
+    "amd"
+  ],
+  "author": "charliedowler",
+  "license": "ISC"
+}
